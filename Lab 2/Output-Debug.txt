@@ -1,0 +1,15 @@
+﻿'Queue.exe' (Win32): Loaded 'C:\!MOE\CPP\Labs\Lab 2\x64\Debug\Queue.exe'. Symbols loaded.
+'Queue.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Queue.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Queue.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Queue.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Queue.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Queue.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Queue.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x27a8 has exited with code 0 (0x0).
+'Queue.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'Queue.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'Queue.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x4d34 has exited with code 0 (0x0).
+The thread 0x20d0 has exited with code 0 (0x0).
+The program '[3548] Queue.exe' has exited with code 0 (0x0).
